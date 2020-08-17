@@ -1,0 +1,2 @@
+# SettingGit
+testing git
